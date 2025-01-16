@@ -30,4 +30,4 @@ Navegar a la ruta `http://localhost:8000/docs` para ver la API
 ![API](images/api.png)
 
 ## Configuración en AWS 
-Para seguir la configuración de políticas en IAM de AWS, siga los pasos indicados en el [siguiente post](https://)
+Para seguir la configuración de políticas en IAM de AWS, siga los pasos indicados en el [siguiente post](https://open.substack.com/pub/juliosarango/p/manejando-buckets-s3-con-fastapi?r=23ui&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true)
